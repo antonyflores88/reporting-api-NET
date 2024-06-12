@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportingAPI-DotNet8-EF", "ReportingAPI-DotNet8-EF\ReportingAPI-DotNet8-EF.csproj", "{089B0310-C28C-497C-A39A-73AF71A9FFB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089B0310-C28C-497C-A39A-73AF71A9FFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089B0310-C28C-497C-A39A-73AF71A9FFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089B0310-C28C-497C-A39A-73AF71A9FFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089B0310-C28C-497C-A39A-73AF71A9FFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4FF3383-DBC6-418F-ABD9-41E057731CD8}
+	EndGlobalSection
+EndGlobal

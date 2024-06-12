@@ -1,0 +1,11 @@
+@ReportingAPI-DotNet8-EF_HostAddress = https://localhost:7292
+@ReportingAPI_DotNet8_EF_HostAddress = http://localhost:5118
+
+GET {{ReportingAPI_DotNet8_EF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ReportingAPI-DotNet8-EF_HostAddress}}/weatherforecast
+
+###

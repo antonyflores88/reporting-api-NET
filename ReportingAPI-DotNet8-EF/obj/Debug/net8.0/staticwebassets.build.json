@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZBYFwYIvbkPmG8gH+Ma3/+cQRQxYcoybfCsP4vEtmQU=",
+  "Source": "ReportingAPI-DotNet8-EF",
+  "BasePath": "_content/ReportingAPI-DotNet8-EF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
